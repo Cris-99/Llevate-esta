@@ -1,5 +1,5 @@
 table, th, td ,tr{
-    border: 3px solid;
+    border: 3px;
     border-collapse: collapse;
     padding: 15px;
     text-align: center;
@@ -7,7 +7,6 @@ table, th, td ,tr{
     margin-right: auto;
     border-style: dashed;
     border-color: red;
-    color: #fff;
     width: auto;
     height: auto;
     font-family: monospace;
