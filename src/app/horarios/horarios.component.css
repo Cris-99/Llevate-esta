@@ -1,0 +1,19 @@
+table, th, td ,tr{
+    border: 3px solid;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: red;
+    color: #fff;
+    width: auto;
+    height: auto;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+caption {
+    font-size: 30px;
+}

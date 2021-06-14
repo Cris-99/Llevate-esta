@@ -2,10 +2,12 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
+import { HorariosComponent } from './horarios/horarios.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HorariosComponent
   ],
   imports: [
     BrowserModule
